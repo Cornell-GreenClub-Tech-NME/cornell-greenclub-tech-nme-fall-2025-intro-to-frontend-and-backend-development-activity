@@ -1,0 +1,1 @@
+# cornell-greenclub-tech-nme-fall-2025-intro-to-frontend-and-backend-development-activity
